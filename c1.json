@@ -1,6 +1,6 @@
 {
   "@type" : "sc:AnnotationList",
-  "@id": "https://bitbucket.org/TYY0402/tyy0402/raw/master/c1.json",
+  "@id": "https://raw.githubusercontent.com/tyy0402/test_anno/master/c1.json",
   "resources" : [ {
     "@id" : "http://120.76.144.46:8888/annotation/1523589499595",
     "@type" : "oa:Annotation",
