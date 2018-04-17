@@ -1,0 +1,498 @@
+{
+  "@type" : "sc:AnnotationList",
+  "@id": "  ",
+  "resources" : [ {
+    "@id" : "http://120.76.144.46:8888/annotation/1523589499595",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:18:19",
+    "dcterms:modified" : "2018-04-13T11:32:33",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">羊妈妈带着小羊羔。 羊妈妈吃青草，亲亲小羊羔，伸出舌头舔小羊羔的绒毛。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">羊妈妈带着小羊羔。 羊妈妈吃青草，亲亲小羊羔，伸出舌头舔小羊羔的绒毛。</span></p>"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "2",
+      "chars" : "2"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b4",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,52,106,104"
+        },
+        "item" : {
+          "@id" : "_:b5",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3.06553,66.60682c0,-2.32558 -0.42529,-7.31817 0.62837,-9.42549c2.17575,-4.3515 23.82082,-6.95485 28.90485,-3.14183c8.09228,6.06921 11.0932,18.63359 18.22262,25.76302c7.3401,7.3401 14.87104,7.33064 21.99282,14.45242c2.96421,2.96421 2.86849,7.89542 5.6553,10.68223c4.4542,4.4542 15.07079,-5.02193 16.33752,-5.6553c0.37469,-0.18734 -0.29621,-0.96052 0,-1.25673c0.08862,-0.08862 1.7562,-0.06445 1.8851,0c2.26033,1.13016 3.8629,7.89066 3.14183,10.05386c-0.53411,1.60232 -5.93619,2.96809 -7.54039,3.7702c-0.1153,0.05765 -1.8851,-0.04612 -1.8851,0c0,0.96905 6.73035,4.66357 7.54039,6.28366c1.81875,3.6375 1.96376,7.06935 3.7702,10.68223c0.61322,1.22644 3.7702,5.59254 3.7702,6.28366c0,1.21279 -11.43987,6.53321 -13.19569,5.6553c-9.55228,-4.77614 -15.44543,-13.95592 -25.76302,-8.79713c-0.79332,0.39666 -3.16697,-0.60323 -3.7702,0c-3.95327,3.95327 4.79822,7.94005 5.6553,8.79713c0.385,0.385 -3.7702,2.51346 -3.7702,2.51346c0,0 0.20946,0.62837 0,0.62837c-4.10093,0 -9.88295,-7.02766 -11.31059,-11.31059c-0.17347,-0.52041 -0.35713,-1.07817 -1.25673,-0.62837c-2.27,1.135 -0.49926,6.52471 -1.25673,8.79713c-2.49597,7.48792 4.44965,12.97772 -4.39856,14.45242c-0.65467,0.10911 -2.55774,1.54878 -3.14183,1.25673c-2.02378,-1.01189 -1.8851,-9.88855 -1.8851,-11.93896c0,-7.27269 -5.02693,-13.13444 -5.02693,-20.73609c0,-0.20946 0.14811,-0.48026 0,-0.62837c-1.79117,-1.79117 -7.06623,-0.78257 -9.42549,-3.14183c-0.7793,-0.7793 -6.28366,-10.05386 -6.28366,-10.05386c0,0 -0.62837,8.0837 -0.62837,8.79713c0,0.20946 0,0.41891 0,0.62837c0,0.41891 0,0.83782 0,1.25673c0,3.5272 1.78517,2.41353 3.7702,4.39856c1.00852,1.00852 1.66541,9.94402 -1.8851,8.16876c-6.07029,-3.03514 -11.87069,-13.48272 -13.19569,-20.10772c-0.68354,-3.41768 3.6749,-12.66262 1.25673,-15.08079c-1.90851,-1.90851 -8.26613,-4.92022 -9.97756,-7.54039c-1.04384,-1.59811 0,-24.6498 0,-27.64811\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"smooth_path_5aa29b48-4c99-4370-8806-fdbe2fa811dc\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://120.76.144.46:8888/annotation/1523589660120",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:21:00",
+    "dcterms:modified" : "2018-04-13T11:32:40",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">小羊羔吃羊妈妈的奶",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">小羊羔吃羊妈妈的奶</span></p>"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "3",
+      "chars" : "3"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b4",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,118,35,48"
+        },
+        "item" : {
+          "@id" : "_:b5",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M35.11221,142.63914c-1.46167,0 -2.19984,-0.62837 -3.7702,-0.62837c-6.10216,0 3.37255,12.33661 1.8851,13.82406c-1.22253,1.22253 -6.08891,-0.19475 -7.54039,1.25673c-0.9009,0.9009 1.76793,3.20042 0.62837,3.7702c-1.65983,0.82992 -8.69387,0.10326 -9.42549,-0.62837c-0.72349,-0.72349 -3.97836,-7.9606 -5.02693,-6.91203c-1.46214,1.46214 0.15721,6.12645 -1.25673,7.54039c-0.56667,0.56667 -3.58242,1.341 -4.39856,1.8851c-0.37258,0.24839 -0.3846,3.14183 -1.8851,3.14183c-0.62837,0 0,-1.25673 0,-1.8851c0,-4.35195 -0.17852,-10.13957 -1.25673,-14.45242c-2.55193,-10.20772 -6.84137,-31.41831 8.16876,-31.41831\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"smooth_path_b63e3323-1afa-48df-88e4-b23996d4a09f\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://120.76.144.46:8888/annotation/1523589759247",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:22:39",
+    "dcterms:modified" : "2018-04-13T11:32:51",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "1",
+      "chars" : "1"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">猪圈里一窝小猪在大母猪身下又挤又叫又打滚，还抢着吃奶。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">猪圈里一窝小猪在大母猪身下又挤又叫又打滚，还抢着吃奶。</span></p>"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b5",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=275,89,53,42"
+        },
+        "item" : {
+          "@id" : "_:b4",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M274.51975,88.59964l26.70557,0l0,0l26.70557,0l0,21.05027l0,21.05027l-26.70557,0l-26.70557,0l0,-21.05027z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rectangle_969bbf2e-84ac-4837-a5e2-7ca586ff6cb0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  },{
+    "@id" : "http://120.76.144.46:8888/annotation/1523589791273",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:23:11",
+    "dcterms:modified" : "2018-04-13T11:32:58",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "2",
+      "chars" : "2"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">老花母鸡领着一群小鸡遛弯儿，一边遛一边逮小虫子吃。花母鸡叨着小虫子，大尖嘴对着小尖嘴地喂小鸡。母鸡咕咕，小鸡唧唧，多快乐呀！",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">老花母鸡领着一群小鸡遛弯儿，一边遛一边逮小虫子吃。花母鸡叨着小虫子，大尖嘴对着小尖嘴地喂小鸡。母鸡咕咕，小鸡唧唧，多快乐呀！</span></p>"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b5",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=170,97,92,74"
+        },
+        "item" : {
+          "@id" : "_:b4",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M169.58259,96.7684l46.18492,0l0,0l46.18492,0l0,37.07361l0,37.07361l-46.18492,0l-46.18492,0l0,-37.07361z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rectangle_8a3f7d82-a4ce-4c63-8b53-2030b4d4503f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://120.76.144.46:8888/annotation/1523589812979",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:23:32",
+    "dcterms:modified" : "2018-04-13T11:33:05",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "3",
+      "chars" : "3"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">三毛想起了妈妈，难过地托着小下巴。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">三毛想起了妈妈，难过地托着小下巴。</span></p>"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b5",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=207,25,78,64"
+        },
+        "item" : {
+          "@id" : "_:b4",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M218.49686,34.29855c7.23514,-5.40447 17.44147,-9.42899 27.69726,-9.42418l0,0l0,0c10.25579,0.00481 19.19031,3.76968 27.69726,9.42418c8.50695,5.6545 11.8135,14.27085 11.47258,22.75198c-0.34092,8.48113 -4.3293,16.82702 -11.47258,22.75198c-7.14328,5.92496 -17.44147,9.42899 -27.69726,9.42418c-10.25579,-0.00481 -20.46919,-3.51845 -27.69726,-9.42418c-7.22807,-5.90573 -11.47081,-14.20354 -11.47258,-22.75198c-0.00177,-8.54844 4.23744,-17.34751 11.47258,-22.75198z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_4e2aa352-d259-49ed-8ce8-8bde367105c8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  },{
+    "@id" : "http://120.76.144.46:8888/annotation/1523589849873",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:24:09",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">大黄狗带着一群小黄狗过来了，小黄狗摇着尾巴晃着脑袋，又蹦又跳&ldquo;汪汪&rdquo;直叫。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">大黄狗带着一群小黄狗过来了，小黄狗摇着尾巴晃着脑袋，又蹦又跳&ldquo;汪汪&rdquo;直叫。</span></p>"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b3",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=337,101,155,71"
+        },
+        "item" : {
+          "@id" : "_:b4",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M337.35637,100.5386l77.60323,0l0,0l77.60323,0l0,35.50269l0,35.50269l-77.60323,0l-77.60323,0l0,-35.50269z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_137e16a7-a43a-4e52-a298-ae1af4c7a146\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"0.62837\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  },{
+    "@id" : "http://120.76.144.46:8888/annotation/1523589890745",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:24:50",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">小三毛看着看着，再也忍不住了，轻轻地抱起一只小黄狗，流下了眼泪。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">小三毛看着看着，再也忍不住了，轻轻地抱起一只小黄狗，流下了眼泪。</span></p>"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b4",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=95,212,60,138"
+        },
+        "item" : {
+          "@id" : "_:b3",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M95.43537,211.75943l30.16158,0l0,0l30.16158,0l0,69.12029l0,69.12029l-30.16158,0l-30.16158,0l0,-69.12029z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83dae733-d0cf-496b-8878-980dedaf8d75\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"0.62837\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://120.76.144.46:8888/annotation/1523589936175",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:25:36",
+    "dcterms:modified" : "2018-04-13T11:33:16",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">老黄狗不让三毛抱它的小狗，冲着三毛&ldquo;汪汪&rdquo;叫， 还呲着牙想咬他。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">老黄狗不让三毛抱它的小狗，冲着三毛&ldquo;汪汪&rdquo;叫， 还呲着牙想咬他。</span></p>"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "1",
+      "chars" : "1"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b4",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=165,274,47,77"
+        },
+        "item" : {
+          "@id" : "_:b5",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M170.21095,279.62298c1.17499,0 4.96648,-1.85487 6.28366,-2.51346c1.50515,-0.75257 17.57231,-2.51346 19.47935,-2.51346c0.5313,0 2.18651,-0.32695 2.51346,0c1.05516,1.05516 2.70391,2.64043 4.39856,3.7702c2.74253,1.82836 6.43275,-1.73601 8.79713,0.62837c2.03982,2.03982 -3.61421,4.08217 -2.51346,6.28366c1.23758,2.47517 1.48292,2.91564 -1.25673,5.6553c-1.61325,1.61325 0.89362,9.54653 -2.51346,10.68223c-4.91456,1.63819 -13.90003,4.44921 -19.47935,8.16876c-3.4111,2.27407 -3.04827,6.1901 -5.6553,8.79713c-0.35339,0.35339 -3.7702,1.73752 -3.7702,3.14183c0,6.16705 20.25889,19.95655 11.93896,28.27648c-3.65136,3.65136 -15.27527,-2.6107 -17.59425,-3.7702c-1.78957,-0.89478 -4.41514,-6.28366 -5.6553,-6.28366\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"smooth_path_628acb65-0196-4068-a864-7653ba0ec179\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  },{
+    "@id" : "http://120.76.144.46:8888/annotation/1523589957551",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:25:57",
+    "dcterms:modified" : [ "2018-04-13T11:26:25", "2018-04-13T11:33:23", "2018-04-16T08:57:52" ],
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "2",
+      "chars" : "2"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "三毛吓得赶紧放下小狗，噌噌噌地爬上了树。",
+      "format" : "text/html",
+      "chars" : "<p>三毛吓得赶紧放下小狗，噌噌噌地爬上了树。</p>"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b4",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=204,195,124,108"
+        },
+        "item" : {
+          "@id" : "_:b5",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M221.96437,210.54612c11.48493,-9.07893 27.68628,-15.8397 43.96615,-15.83162l0,0l0,0c16.27987,0.00808 30.46236,6.33267 43.96615,15.83162c13.50379,9.49895 18.75254,23.97353 18.21137,38.22093c-0.54117,14.2474 -6.87225,28.26762 -18.21137,38.22093c-11.33912,9.95331 -27.68628,15.8397 -43.96615,15.83162c-16.27987,-0.00808 -32.49244,-5.91062 -43.96615,-15.83162c-11.47371,-9.921 -18.20857,-23.86045 -18.21137,-38.22093c-0.0028,-14.36048 6.72644,-29.142 18.21137,-38.22093z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_fc34d373-886d-4694-8c99-200d0e6fde13\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3.1362\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://120.76.144.46:8888/annotation/1523590021199",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:27:01",
+    "dcterms:modified" : "2018-04-13T11:33:32",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">树上有个老鸹窝， 窝里有一只大黑老鸹， 还有几只小黑老鸹。它们亲亲热热挤在树枝编的温暖的窝里玩。",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">树上有个老鸹窝， 窝里有一只大黑老鸹， 还有几只小黑老鸹。它们亲亲热热挤在树枝编的温暖的窝里玩。</span></p>"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "1",
+      "chars" : "1"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b4",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=409,267,71,61"
+        },
+        "item" : {
+          "@id" : "_:b5",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M419.75269,276.41668c6.55523,-5.15716 15.80245,-8.99753 25.09448,-8.99294l0,0l0,0c9.29203,0.00459 17.38695,3.59719 25.09448,8.99294c7.70753,5.39575 10.70335,13.61783 10.39447,21.71087c-0.30888,8.09304 -3.92246,16.05703 -10.39447,21.71087c-6.47201,5.65384 -15.80245,8.99753 -25.09448,8.99294c-9.29203,-0.00459 -18.54565,-3.35745 -25.09448,-8.99294c-6.54883,-5.63549 -10.39287,-13.5536 -10.39447,-21.71087c-0.0016,-8.15727 3.83924,-16.55371 10.39447,-21.71087z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_6cf8d909-61d8-4ffe-9e11-4b041dd9feaa\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.14183\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://120.76.144.46:8888/annotation/1523590059124",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-13T11:27:39",
+    "dcterms:modified" : [ "2018-04-13T11:33:38", "2018-04-16T08:58:02" ],
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "2",
+      "chars" : "2"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">三毛没人亲，没人疼，没人爱他，保护他。三毛止不住地痛哭起来，泪水哗哗地往下流&hellip;&hellip;，三毛好伤心啊",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">三毛没人亲，没人疼，没人爱他，保护他。三毛止不住地痛哭起来，泪水哗哗地往下流&hellip;&hellip;，三毛好伤心啊</span></p>"
+    } ],
+    "on" : { 
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b5",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=341,176,105,84"
+        },
+        "item" : {
+          "@id" : "_:b4",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M356.63607,188.01154c9.67609,-7.07044 23.32577,-12.33556 37.04161,-12.32927l0,0l0,0c13.71583,0.00629 25.66462,4.93173 37.04161,12.32927c11.37698,7.39755 15.79907,18.66998 15.34314,29.76549c-0.45593,11.09551 -5.78989,22.01411 -15.34314,29.76549c-9.55324,7.75139 -23.32577,12.33556 -37.04161,12.32927c-13.71583,-0.00629 -27.37497,-4.60305 -37.04161,-12.32927c-9.66664,-7.72622 -15.34077,-18.58191 -15.34314,-29.76549c-0.00236,-11.18358 5.66705,-22.69505 15.34314,-29.76549z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_33c1ab7d-fbaa-4066-b8c0-defdfb7c67a4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"3.1362\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  },{
+    "@id" : "http://120.76.144.46:8888/annotation/1523840238220",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2018-04-16T08:57:18",
+    "resource" : [ {
+      "@id" : "_:b2",
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "三毛是个穷孩子。他在农村长大，从小就没有了爸爸，也没有了妈妈。三毛长得又瘦又小，只有脑袋大大的，上边就有三根稀稀拉拉的头发，人们就管他叫三毛。",
+      "format" : "text/html",
+      "chars" : "<p>三毛是个穷孩子。他在农村长大，从小就没有了爸爸，也没有了妈妈。三毛长得又瘦又小，只有脑袋大大的，上边就有三根稀稀拉拉的头发，人们就管他叫三毛。</p>"
+    }, {
+      "@id" : "_:b3",
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "1",
+      "chars" : "1"
+    } ],
+    "on" : {
+      "@id" : "_:b0",
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@id" : "_:b1",
+        "@type" : "oa:Choice",
+        "default" : {
+          "@id" : "_:b5",
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=85,12,72,154"
+        },
+        "item" : {
+          "@id" : "_:b4",
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M109.50717,164.33692c1.93171,0.96585 32.22881,2.07556 35.12545,0.62724c3.74238,-1.87119 9.59338,-8.3389 12.5448,-11.29032c0.99222,-0.99222 -1.6425,-8.83976 -1.88172,-10.03584c-2.10127,-10.50635 -6.65175,-17.08194 -8.15412,-27.59857c-2.02877,-14.20139 4.88775,-25.8234 8.15412,-38.88889c2.07378,-8.29511 -4.70018,-16.60125 -6.2724,-24.46237c-3.73084,-18.65418 6.3238,-30.45127 -18.8172,-37.63441c-4.02929,-1.15123 -7.1784,-1.82364 -11.29032,-2.50896c-10.20301,-1.7005 -17.10404,5.73514 -25.08961,11.29032c-18.82232,13.09379 -2.89978,48.53392 7.52688,58.96057c1.657,1.657 -1.07643,8.51023 0,10.66308c5.02416,10.04833 1.12012,24.32801 8.78136,31.98925c0.77731,0.77731 0,6.21083 0,7.52688c0,8.11844 -0.62724,16.00826 -0.62724,23.83513c0,1.84238 -2.055,9.4086 0.62724,9.4086\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_386228f8-a60a-4ee6-b92b-17d062afcef6\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"0.62724\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+    },
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "http://120.76.144.46:8888/annotation/",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
