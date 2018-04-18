@@ -1,7 +1,9 @@
 {
   "@type" : "sc:AnnotationList",
   "@id": "https://raw.githubusercontent.com/tyy0402/test_anno/master/c1.json",
-  "resources" : [ {
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "resources" : [
+  {
     "@id" : "http://120.76.144.46:8888/annotation/1523589499595",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2018-04-13T11:18:19",
@@ -492,7 +494,5 @@
     },
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
-  } ],
-  "@id" : "http://120.76.144.46:8888/annotation/",
-  "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ]
 }
