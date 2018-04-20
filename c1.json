@@ -20,7 +20,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "2",
       "chars" : "2"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -42,7 +42,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
@@ -62,7 +62,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "3",
       "chars" : "3"
     } ],
-    "on" : {
+    "on" : [{
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -84,7 +84,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
@@ -104,7 +104,7 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">猪圈里一窝小猪在大母猪身下又挤又叫又打滚，还抢着吃奶。</span></p>"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -126,7 +126,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   },{
@@ -146,7 +146,7 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">老花母鸡领着一群小鸡遛弯儿，一边遛一边逮小虫子吃。花母鸡叨着小虫子，大尖嘴对着小尖嘴地喂小鸡。母鸡咕咕，小鸡唧唧，多快乐呀！</span></p>"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -168,7 +168,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
@@ -188,7 +188,7 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">三毛想起了妈妈，难过地托着小下巴。</span></p>"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -210,7 +210,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   },{
@@ -224,7 +224,7 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">大黄狗带着一群小黄狗过来了，小黄狗摇着尾巴晃着脑袋，又蹦又跳&ldquo;汪汪&rdquo;直叫。</span></p>"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -246,7 +246,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   },{
@@ -260,7 +260,7 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">小三毛看着看着，再也忍不住了，轻轻地抱起一只小黄狗，流下了眼泪。</span></p>"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -282,7 +282,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
@@ -302,7 +302,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "1",
       "chars" : "1"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -324,7 +324,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   },{
@@ -344,7 +344,7 @@
       "format" : "text/html",
       "chars" : "<p>三毛吓得赶紧放下小狗，噌噌噌地爬上了树。</p>"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -366,7 +366,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
@@ -386,7 +386,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "1",
       "chars" : "1"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -408,7 +408,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
@@ -428,7 +428,7 @@
       "format" : "text/html",
       "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; font-size: 14px; background-color: #fafafa;\">三毛没人亲，没人疼，没人爱他，保护他。三毛止不住地痛哭起来，泪水哗哗地往下流&hellip;&hellip;，三毛好伤心啊</span></p>"
     } ],
-    "on" : { 
+    "on" : [ { 
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -450,7 +450,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+     } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   },{
@@ -469,7 +469,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "1",
       "chars" : "1"
     } ],
-    "on" : {
+    "on" : [ {
       "@id" : "_:b0",
       "@type" : "oa:SpecificResource",
       "within" : {
@@ -491,7 +491,7 @@
         }
       },
       "full" : "http://6420b62f-650e-4c84-a447-2349a987ff8f"
-    },
+    } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   } ]
