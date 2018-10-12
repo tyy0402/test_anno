@@ -64,7 +64,13 @@
 							},
 							"on": "http://0ed48624-0382-43ed-a9b9-b6df209233be"
 						}
-					]
+					],
+					"otherContent": [
+    {
+        "@id": "https://gistcdn.githack.com/tyy0402/4462bb8cb91e25645c36e618bb5bc920/raw/a2980255f3cabefa7eae123175166457b5369eab/page1.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }]
 				},
 				{
 					"@id": "http://05faa04b-5f6b-4e7d-a878-b11c3aa29f24",
