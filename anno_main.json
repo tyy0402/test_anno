@@ -1,0 +1,80 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+	"@type": "sc:Manifest",
+	"label": "连环画《三毛流浪记》",
+	"metadata": [],
+	"description": "《三毛流浪记》是著名漫画家张乐平先生的漫画名作，出版于2012年6月。讲述了孤儿三毛的辛酸遭遇，他没有家，没有亲人，无家可归，衣食无着，只有与他命运相同的流浪儿关心他，给他温暖。",
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://532d5b70-ce0c-4df5-b3f7-3c3d88d1e8f6",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://0ed48624-0382-43ed-a9b9-b6df209233be",
+					"@type": "sc:Canvas",
+					"label": "1.孤苦伶仃",
+					"height": 350,
+					"width": 495,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3607db87-658b-4a6b-8495-af8bd06c2699",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://144.214.54.122:9000/image/v2/image_001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://144.214.54.122:9000/image/v2/image_001",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"profileLinkHeader",
+												"regionByPct",
+												"regionByPx",
+												"regionSquare",
+												"rotationBy90s",
+												"sizeByConfinedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											]
+										}
+									]
+								},
+								"height": 350,
+								"width": 495
+							},
+							"on": "http://0ed48624-0382-43ed-a9b9-b6df209233be"
+						}
+					],
+					"otherContent": [
+    {
+        "@id": "https://rawcdn.githack.com/tyy0402/test_anno/master/page1.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }]
+				}
+				
+			]
+		}
+	],
+	"structures": []
+}
