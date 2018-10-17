@@ -1,0 +1,51 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:AnnotationList",
+	"resources": [
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://a3026190-7da4-4374-ac06-267db5bd832c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=279,205,80,56"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M290.51154,213.42127c7.41882,-4.67867 17.88426,-8.16272 28.40042,-8.15856v0v0c10.51616,0.00416 19.6775,3.26343 28.40042,8.15856c8.72292,4.89512 12.11341,12.35435 11.76384,19.6965c-0.34957,7.34215 -4.43921,14.56723 -11.76384,19.6965c-7.32463,5.12927 -17.88426,8.16272 -28.40042,8.15856c-10.51616,-0.00416 -20.98885,-3.04594 -28.40042,-8.15856c-7.41157,-5.11262 -11.76203,-12.29607 -11.76384,-19.6965c-0.00181,-7.40043 4.34502,-15.01783 11.76384,-19.6965z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_39cd2d78-319c-4f7e-9f24-fb7feb515a38\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u6bdb\u9886\u7740\u5c0f\u5f1f\u6765\u5230\u4e00\u4e2a\u7a7a\u6728\u6876\u8ddf\u524d\uff0c\u90a3\u6728\u6876\u53c8\u5706\u53c8\u5927\u3002\u4ed6\u4fe9\u94bb\u8fdb\u6728\u6876\uff0c\u628a\u6e7f\u8863\u670d\u8131\u4e0b\u6765\uff0c\u62e7\u5e72\u6c34\uff0c\u642d\u5728\u4e00\u6839\u7af9\u7aff\u4e0a\u667e\u7740\uff0c\u7136\u540e\u518d\u628a\u4f1e\u4e00\u652f\uff0c\u76d6\u5728\u6876\u53e3\u4e0a\u3002\u4e09\u6bdb\u8fd9\u4e3b\u610f\u5999\u6781\u4e86\uff0c\u8c01\u80fd\u77a7\u5f97\u89c1\u8fd9\u6876\u91cc\u85cf\u7740\u4e24\u4e2a\u5149\u5c41\u80a1\u5b69\u513f\u5462\uff01</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u6bdb\u9886\u7740\u5c0f\u5f1f\u6765\u5230\u4e00\u4e2a\u7a7a\u6728\u6876\u8ddf\u524d\uff0c\u90a3\u6728\u6876\u53c8\u5706\u53c8\u5927\u3002\u4ed6\u4fe9\u94bb\u8fdb\u6728\u6876\uff0c\u628a\u6e7f\u8863\u670d\u8131\u4e0b\u6765\uff0c\u62e7\u5e72\u6c34\uff0c\u642d\u5728\u4e00\u6839\u7af9\u7aff\u4e0a\u667e\u7740\uff0c\u7136\u540e\u518d\u628a\u4f1e\u4e00\u652f\uff0c\u76d6\u5728\u6876\u53e3\u4e0a\u3002\u4e09\u6bdb\u8fd9\u4e3b\u610f\u5999\u6781\u4e86\uff0c\u8c01\u80fd\u77a7\u5f97\u89c1\u8fd9\u6876\u91cc\u85cf\u7740\u4e24\u4e2a\u5149\u5c41\u80a1\u5b69\u513f\u5462\uff01",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T17:25:41",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539249941968",
+            "@type": "oa:Annotation"
+        }
+    ],
+    "@type": "sc:AnnotationList",
+    "context": "http://iiif.io/api/presentation/2/context.json"
+}

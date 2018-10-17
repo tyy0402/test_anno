@@ -1,0 +1,310 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:AnnotationList",
+	"resources": [
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=84,51,67,57"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M141.27254,99.78608c-6.14895,4.80879 -14.82304,8.38973 -23.53916,8.38546v0v0c-8.71612,-0.00428 -16.30933,-3.35419 -23.53916,-8.38546c-7.22983,-5.03126 -10.03998,-12.69794 -9.75024,-20.24428c0.28974,-7.54635 3.67935,-14.97236 9.75024,-20.24428c6.07089,-5.27192 14.82304,-8.38973 23.53916,-8.38546c8.71612,0.00428 17.39622,3.13065 23.53916,8.38546c6.14294,5.2548 9.74874,12.63804 9.75024,20.24428c0.0015,7.60624 -3.60129,15.43549 -9.75024,20.24428z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_93cef2ca-96ed-42c6-a7bb-12e33a609115\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u8001\u7237\u7237\u5212\u7740\u5c0f\u8239\u5230\u4e86\u6cb3\u5bf9\u5cb8\uff0c \u4ed6\u6307\u7740\u6cb3\u5cb8\u4e0a\u642d\u7684\u4e00\u4e2a\u8349\u68da\u8bf4\uff1a&ldquo;\u90a3\u513f\u5c31\u662f\u6211\u4f4f\u7684\u5730\u65b9&rdquo;\u3002</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u8001\u7237\u7237\u5212\u7740\u5c0f\u8239\u5230\u4e86\u6cb3\u5bf9\u5cb8\uff0c \u4ed6\u6307\u7740\u6cb3\u5cb8\u4e0a\u642d\u7684\u4e00\u4e2a\u8349\u68da\u8bf4\uff1a&ldquo;\u90a3\u513f\u5c31\u662f\u6211\u4f4f\u7684\u5730\u65b9&rdquo;\u3002",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:49:49",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539226189484",
+            "@type": "oa:Annotation"
+        },
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=104,1,143,149"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M180.24793,141.0124c0,-11.94795 6.02652,-40.49481 2.16942,-52.06612c-3.88457,-11.65371 -22.84227,-26.30885 -30.3719,-37.60331c-9.04525,-13.56788 -36.04567,-13.62831 -45.55785,-23.1405c-7.13583,-7.13583 0.08007,-15.58756 6.50826,-18.80165c10.25367,-5.12684 31.51992,-10.19853 43.38843,-7.2314c13.52009,3.38002 30.45527,15.82573 41.94215,4.33884c2.81725,-2.81725 26.28946,2.44885 28.20248,7.2314c4.74952,11.87379 3.15807,25.42865 0.72314,37.60331c-0.92,4.59999 -11.98824,13.62683 -10.12397,17.35537c2.9367,5.8734 15.59384,2.9852 18.80165,9.40083c4.02274,8.04547 7.2314,19.03592 7.2314,29.64876c0,5.41073 -2.40624,19.05116 0,23.86364c1.14939,2.29878 5.49323,12.58528 2.89256,15.18595c-2.16881,2.16881 -10.78333,1.44628 -14.46281,1.44628c-11.96323,0 -25.02011,3.42296 -36.88017,1.44628c-3.84471,-0.64079 -15.18595,-1.81966 -15.18595,-6.50826\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_bd77e11e-75ac-4a7f-a198-1883a07a4c69\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u5c0f\u8349\u68da\u662f\u7528\u51e0\u6839\u7af9\u6746\u652f\u8d77\u6765\u7684\uff0c\u4e0a\u8fb9\u76d6\u7740\u7a3b\u8349\uff0c\u8349\u68da\u65c1\u8fb9\u8fd8\u6709\u4e00\u68f5\u6811\u3002</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u5c0f\u8349\u68da\u662f\u7528\u51e0\u6839\u7af9\u6746\u652f\u8d77\u6765\u7684\uff0c\u4e0a\u8fb9\u76d6\u7740\u7a3b\u8349\uff0c\u8349\u68da\u65c1\u8fb9\u8fd8\u6709\u4e00\u68f5\u6811\u3002",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:50:21",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539226221661",
+            "@type": "oa:Annotation"
+        },
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=301,32,49,53"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M307.83632,39.9856c4.49238,-4.44083 10.82961,-7.74776 17.19754,-7.74381v0v0c6.36794,0.00395 11.91548,3.09753 17.19754,7.74381c5.28206,4.64628 7.33514,11.72631 7.12346,18.69522c-0.21168,6.96891 -2.68811,13.8267 -7.12346,18.69522c-4.43535,4.86852 -10.82961,7.74776 -17.19754,7.74381c-6.36794,-0.00395 -12.70955,-2.8911 -17.19754,-7.74381c-4.48799,-4.85271 -7.12236,-11.67099 -7.12346,-18.69522c-0.0011,-7.02422 2.63108,-14.25439 7.12346,-18.69522z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_cb962284-daa3-497d-85bb-44aee5b1f04f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u597d\u5fc3\u773c\u7684\u7237\u7237\u5fd9\u4ece\u8349\u68da\u91cc\u62ff\u51fa\u81ea\u4e2a\u7a7f\u7684\u8902\u5b50\uff0c\u53eb\u4e09\u6bdb\u6362\u4e0a\u3002</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u597d\u5fc3\u773c\u7684\u7237\u7237\u5fd9\u4ece\u8349\u68da\u91cc\u62ff\u51fa\u81ea\u4e2a\u7a7f\u7684\u8902\u5b50\uff0c\u53eb\u4e09\u6bdb\u6362\u4e0a\u3002",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:51:31",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539226291470",
+            "@type": "oa:Annotation"
+        },
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=366,64,48,49"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M372.79489,71.18343c4.41413,-4.08507 10.64098,-7.12709 16.89801,-7.12346v0v0c6.25703,0.00363 11.70795,2.8494 16.89801,7.12346c5.19006,4.27406 7.20737,10.78691 6.99938,17.19754c-0.20799,6.41063 -2.64129,12.71904 -6.99938,17.19754c-4.35809,4.4785 -10.64098,7.12709 -16.89801,7.12346c-6.25703,-0.00363 -12.48819,-2.6595 -16.89801,-7.12346c-4.40982,-4.46396 -6.9983,-10.73603 -6.99938,-17.19754c-0.00108,-6.46151 2.58525,-13.11247 6.99938,-17.19754z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_b7ca64d5-5195-4d62-9828-7269dad42e29\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"0.72314\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u4e09\u6bdb\u4ece\u8239\u4e0a\u4e0b\u6765\uff0c\u6d51\u8eab\u6e7f\u6dcb\u6dcb\u7684\uff0c\u4ece\u5934\u5230\u811a\u5f80\u4e0b\u6dcc\u6c34\u3002\u5c0f\u98ce\u4e00\u5439\uff0c \u4ed6\u76f4\u6253\u51b7\u6218\u3002</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u4e09\u6bdb\u4ece\u8239\u4e0a\u4e0b\u6765\uff0c\u6d51\u8eab\u6e7f\u6dcb\u6dcb\u7684\uff0c\u4ece\u5934\u5230\u811a\u5f80\u4e0b\u6dcc\u6c34\u3002\u5c0f\u98ce\u4e00\u5439\uff0c \u4ed6\u76f4\u6253\u51b7\u6218\u3002",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:51:00",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "dcterms:modified": "2018-10-11T10:51:35",
+            "@id": "http://144.214.54.122:8888/annotation/1539226260011",
+            "@type": "oa:Annotation"
+        },
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b4",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=129,216,55,63"
+                        },
+                        "item": {
+                            "@id": "_:b3",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M137.32052,225.15214c5.04009,-5.29464 12.14996,-9.23738 19.29429,-9.23267v0v0c7.14432,0.00471 13.36823,3.69308 19.29429,9.23267c5.92606,5.53959 8.22944,13.98085 7.99195,22.28963c-0.23749,8.30878 -3.01585,16.48507 -7.99195,22.28963c-4.97611,5.80456 -12.14996,9.23738 -19.29429,9.23267c-7.14432,-0.00471 -14.25911,-3.44695 -19.29429,-9.23267c-5.03517,-5.78572 -7.99072,-13.9149 -7.99195,-22.28963c-0.00123,-8.37473 2.95186,-16.99499 7.99195,-22.28963z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_4db2ce24-1249-4dd8-a6a1-ebbf88e303ce\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u770b\u7740\u9662\u5b50\u91cc\u7684\u9e21\u548c\u9e2d\uff0c\u4e09\u6bdb\u6362\u8863\u670d\u8fd8\u6709\u70b9\u4e0d\u597d\u610f\u601d\u3002</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u770b\u7740\u9662\u5b50\u91cc\u7684\u9e21\u548c\u9e2d\uff0c\u4e09\u6bdb\u6362\u8863\u670d\u8fd8\u6709\u70b9\u4e0d\u597d\u610f\u601d\u3002",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:52:08",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539226328945",
+            "@type": "oa:Annotation"
+        },
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=367,213,45,53"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M404.82897,258.05107c-4.11458,4.45304 -9.91886,7.76906 -15.75126,7.7651v0v0c-5.83241,-0.00396 -10.91341,-3.10605 -15.75126,-7.7651c-4.83785,-4.65905 -6.71826,-11.75854 -6.52439,-18.74661c0.19388,-6.98807 2.46205,-13.86471 6.52439,-18.74661c4.06234,-4.8819 9.91886,-7.76906 15.75126,-7.7651c5.83241,0.00396 11.6407,2.89905 15.75126,7.7651c4.11056,4.86605 6.52338,11.70308 6.52439,18.74661c0.001,7.04353 -2.40981,14.29357 -6.52439,18.74661z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_49114d45-e230-4fe8-9c17-d4dbf16af681\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u4e09\u6bdb\u4e56\u4e56\u5730\u6362\u4e0a\u4e86\u8001\u7237\u7237\u7684\u8863\u670d\uff0c\u53c8\u80a5\u53c8\u5927\u7684\u8902\u5b50\u4e00\u76f4\u62d6\u5230\u5730\u4e0a\uff0c\u4e09\u6bdb\u4e00\u70b9\u4e5f\u4e0d\u5acc\u6837\u5b50\u602a\uff0c\u53ea\u89c9\u5f97\u5fc3\u91cc\u6696\u70d8\u70d8\u7684\u3002</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u4e09\u6bdb\u4e56\u4e56\u5730\u6362\u4e0a\u4e86\u8001\u7237\u7237\u7684\u8863\u670d\uff0c\u53c8\u80a5\u53c8\u5927\u7684\u8902\u5b50\u4e00\u76f4\u62d6\u5230\u5730\u4e0a\uff0c\u4e09\u6bdb\u4e00\u70b9\u4e5f\u4e0d\u5acc\u6837\u5b50\u602a\uff0c\u53ea\u89c9\u5f97\u5fc3\u91cc\u6696\u70d8\u70d8\u7684\u3002",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:52:41",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539226361837",
+            "@type": "oa:Annotation"
+        },
+        {
+            "on": [
+                {
+                    "within": {
+                        "@id": "http://ae00acbb-78a2-4c3e-ae58-94d592f9ac13",
+                        "@type": "sc:Manifest"
+                    },
+                    "@id": "_:b0",
+                    "@type": "oa:SpecificResource",
+                    "full": "http://f4d33b32-61a2-42a9-9216-811ccda94e5c",
+                    "selector": {
+                        "default": {
+                            "@id": "_:b3",
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=325,196,42,74"
+                        },
+                        "item": {
+                            "@id": "_:b4",
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M331.43052,206.51713c3.86642,-6.2196 9.32063,-10.85113 14.80127,-10.84559v0v0c5.48064,0.00553 10.2552,4.33825 14.80127,10.84559c4.54607,6.50734 6.31307,16.42328 6.13089,26.18358c-0.18218,9.7603 -2.31355,19.36498 -6.13089,26.18358c-3.81733,6.8186 -9.32063,10.85113 -14.80127,10.84559c-5.48064,-0.00553 -10.93862,-4.04913 -14.80127,-10.84559c-3.86264,-6.79647 -6.12994,-16.34581 -6.13089,-26.18358c-0.00094,-9.83777 2.26447,-19.96398 6.13089,-26.18358z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2421608c-17ef-42ea-b582-97aadaadfb78\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@id": "_:b1",
+                        "@type": "oa:Choice"
+                    }
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "resource": [
+                {
+                    "chars": "<p>\u8001\u7237\u7237\u8f7b\u8f7b\u62cd\u62cd\u4e09\u6bdb\u7684\u5934\uff0c\u4e00\u8fb9\u62bd\u7740\u65f1\u70df\u4e00\u8fb9\u5bf9\u4ed6\u8bf4\uff1a&ldquo;\u5b69\u5b50\uff0c\u8fd9\u513f\u5c31\u662f\u4f60\u7684\u5bb6\u5566\uff0c\u54b1\u7237\u4fe9\u5728\u4e00\u5757\u505a\u4f34\u513f\u5427\u3002&rdquo;</p>",
+                    "http://dev.llgc.org.uk/sas/full_text": "\u8001\u7237\u7237\u8f7b\u8f7b\u62cd\u62cd\u4e09\u6bdb\u7684\u5934\uff0c\u4e00\u8fb9\u62bd\u7740\u65f1\u70df\u4e00\u8fb9\u5bf9\u4ed6\u8bf4\uff1a&ldquo;\u5b69\u5b50\uff0c\u8fd9\u513f\u5c31\u662f\u4f60\u7684\u5bb6\u5566\uff0c\u54b1\u7237\u4fe9\u5728\u4e00\u5757\u505a\u4f34\u513f\u5427\u3002&rdquo;",
+                    "@id": "_:b2",
+                    "@type": "dctypes:Text",
+                    "format": "text/html"
+                }
+            ],
+            "dcterms:created": "2018-10-11T10:53:16",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://144.214.54.122:8888/annotation/1539226396038",
+            "@type": "oa:Annotation"
+        }
+    ],
+    "@type": "sc:AnnotationList",
+    "context": "http://iiif.io/api/presentation/2/context.json"
+}
